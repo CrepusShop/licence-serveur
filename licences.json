@@ -1,0 +1,10 @@
+{
+  "ABC123": {
+    "user": "Jean Dupont",
+    "expires": "2025-08-28"
+  },
+  "DEF456": {
+    "user": "Marie Martin",
+    "expires": "2024-12-01"
+  }
+}
